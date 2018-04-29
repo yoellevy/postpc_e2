@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">postpc_e2</string>
+    <string name="message_input_hint">Write a message…</string>
+    <string name="send">Send</string>
+    <string name="author_name_dialog_title">Enter your name</string>
+    <string name="default_author_name">Dingus</string>
+    <string name="long_message_input_hint">Write a long message…</string>
+    <string name="delete_message">Delete message</string>
+    <string name="close">close</string>
 </resources>
